@@ -37,6 +37,10 @@ Se você é um desenvolvedor e quer dar uma força, fique à vontade para fazer 
 
 **Lembre-se:** Essa aplicação é um projeto simples, mas com muito potencial. A ideia é que ela seja uma base para você criar algo ainda mais incrível!
 
+**Dúvidas?**
+
+Se tiver alguma dúvida, pode me mandar um email rdrgs.alinemkt@gmail.com.
+
 **Vamos tornar o Residencial Tomate ainda mais tecnológico e acolhedor!**
 
 ---
