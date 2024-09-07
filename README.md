@@ -42,7 +42,3 @@ Se você é um desenvolvedor e quer dar uma força, fique à vontade para fazer 
 ---
 
 **#residencialtomate #idosos #tecnologia #javascript #html #css**
-
-**Observação:** Adapte este README de acordo com as características específicas do seu projeto. Você pode adicionar mais detalhes sobre as tecnologias utilizadas, os desafios enfrentados durante o desenvolvimento, ou até mesmo criar uma seção de agradecimentos. 
-
-**Lembre-se:** O README é o cartão de visitas do seu projeto, então capriche na escrita e deixe-o bem claro e conciso.
