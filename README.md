@@ -1,4 +1,4 @@
-## **Projeto "Residencial Tomate"**
+## **Projeto Fictício com base na Imersão Dev Gemini da Alura - "Residencial Tomate"**
 
 ###  **Bem-vindo ao Residencial Tomate!** 
 
