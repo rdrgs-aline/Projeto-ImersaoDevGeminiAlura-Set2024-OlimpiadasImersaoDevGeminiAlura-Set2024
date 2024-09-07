@@ -4,7 +4,7 @@
 
 **Tá procurando por alguém aqui no residencial?** 
 
-Essa aplicação simples te ajuda a encontrar os nossos queridos moradores rapidinho! É só digitar o nome e pronto! ✨
+Essa aplicação simples te ajuda a encontrar os nossos queridos moradores rapidinho! É só digitar o nome e pronto!
 
 **Como funciona?** 
 
@@ -37,7 +37,7 @@ Se você é um desenvolvedor e quer dar uma força, fique à vontade para fazer 
 
 **Lembre-se:** Essa aplicação é um projeto simples, mas com muito potencial. A ideia é que ela seja uma base para você criar algo ainda mais incrível!
 
-**Vamos tornar o Residencial Tomate ainda mais tecnológico e acolhedor!** ❤️
+**Vamos tornar o Residencial Tomate ainda mais tecnológico e acolhedor!**
 
 ---
 
