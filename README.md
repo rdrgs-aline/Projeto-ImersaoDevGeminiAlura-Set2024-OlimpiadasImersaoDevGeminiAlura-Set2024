@@ -28,6 +28,8 @@ Se você é um desenvolvedor e quer dar uma força, fique à vontade para fazer 
 * **Fotos dos moradores:** Que tal colocar fotos dos nossos queridos para deixar tudo mais pessoal?
 * **Sistema de mensagens:** Assim, os familiares podem deixar recados para os moradores.
 
+**Vamos tornar o Residencial Tomate ainda mais tecnológico e acolhedor!**
+
 **Observações importantes:**
 
 * **Dados fictícios:** Os dados usados nessa aplicação são fictícios e servem apenas para demonstração.
@@ -40,8 +42,6 @@ Se você é um desenvolvedor e quer dar uma força, fique à vontade para fazer 
 **Dúvidas?**
 
 Se tiver alguma dúvida, pode me mandar um email rdrgs.alinemkt@gmail.com.
-
-**Vamos tornar o Residencial Tomate ainda mais tecnológico e acolhedor!**
 
 ---
 
