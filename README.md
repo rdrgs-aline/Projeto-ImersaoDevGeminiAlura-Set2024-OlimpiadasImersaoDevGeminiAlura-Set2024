@@ -34,15 +34,3 @@ Se você é um desenvolvedor e quer dar uma força, fique à vontade para fazer 
 
 * **Dados fictícios:** Os dados usados nessa aplicação são fictícios e servem apenas para demonstração.
 * **Melhorias futuras:** Essa é apenas a primeira versão da aplicação, e muitas melhorias estão por vir!
-
-**Dica:** Se você quiser contribuir para o projeto, é só abrir um pull request!
-
-**Lembre-se:** Essa aplicação é um projeto simples, mas com muito potencial. A ideia é que ela seja uma base para você criar algo ainda mais incrível!
-
-**Dúvidas?**
-
-Se tiver alguma dúvida, pode me mandar um email rdrgs.alinemkt@gmail.com.
-
----
-
-**#residencialtomate #idosos #tecnologia #javascript #html #css**
